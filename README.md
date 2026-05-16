@@ -125,6 +125,9 @@ The client side of the application is built using modern JavaScript, HTML, and C
    ```
 
    This will create a production build of the client application, which will be served by the Express server.
+4. **Start
+   ```bash
+   npm start
 
 ### 3. Configuring and Running the Server
 
